@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.5" />
+		<PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+		<PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
+		<PackageReference Include="LinqKit" Version="1.2.4" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+		<PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
+		<PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+		<PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+		<PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		
+		<PackageReference Include="OpenXmlPowerTools" Version="4.5.3.2" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\DoroTest.Domain\DoroTest.Domain.csproj" />
+	</ItemGroup>
+</Project>

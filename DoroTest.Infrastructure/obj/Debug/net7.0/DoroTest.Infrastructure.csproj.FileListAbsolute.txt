@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\bin\Debug\net7.0\DoroTest.Infrastructure.deps.json
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\bin\Debug\net7.0\DoroTest.Infrastructure.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\bin\Debug\net7.0\DoroTest.Infrastructure.pdb
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\bin\Debug\net7.0\DoroTest.Domain.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\bin\Debug\net7.0\DoroTest.Domain.pdb
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\refint\DoroTest.Infrastructure.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.Infrastructure.pdb
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\ref\DoroTest.Infrastructure.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Infrastructure\obj\Debug\net7.0\DoroTest.BF769A99.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\bin\Debug\net6.0\DoroTest.Domain.deps.json
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\bin\Debug\net6.0\DoroTest.Domain.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\bin\Debug\net6.0\DoroTest.Domain.pdb
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\refint\DoroTest.Domain.dll
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\DoroTest.Domain.pdb
+C:\Users\User\source\repos\DoroTest\DoroTest.Domain\obj\Debug\net6.0\ref\DoroTest.Domain.dll
